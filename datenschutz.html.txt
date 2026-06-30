@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Datenschutz | Facility & Care</title>
+  <meta name="description" content="Datenschutzhinweise von Facility & Care." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">Facility & Care</a>
+      <button class="nav-toggle" aria-label="Menue oeffnen">Menue</button>
+      <nav class="site-nav">
+        <a href="index.html">Start</a>
+        <a href="rasen.html">Rasenpflege</a>
+        <a href="pflaster.html">Pflaster</a>
+        <a href="garten.html">Gartengestaltung</a>
+        <a href="kontakt.html">Kontakt</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section legal-section">
+      <div class="container legal-content">
+        <h1>Datenschutz</h1>
+
+        <p>
+          Diese Datenschutzerklaerung informiert ueber die Art, den Umfang und den Zweck der
+          Verarbeitung personenbezogener Daten auf dieser Website.
+        </p>
+
+        <h2>1. Verantwortlicher</h2>
+        <p>
+          Facility & Care<br />
+          Inhaber: Harun Tecer<br />
+          Tannenstr. 10A<br />
+          85579 Neubiberg<br />
+          E-Mail: Tecer.Facility-care@web.de<br />
+          Telefon: 0176 / 61709809
+        </p>
+
+        <h2>2. Hosting</h2>
+        <p>
+          Diese Website wird bei einem externen Hosting-Anbieter betrieben. Dabei koennen durch
+          den Hosting-Anbieter technische Verbindungsdaten verarbeitet werden, insbesondere
+          IP-Adresse, Datum und Uhrzeit des Zugriffs, aufgerufene Seiten, Browserinformationen
+          und Systemdaten.
+        </p>
+
+        <h2>3. Kontaktaufnahme</h2>
+        <p>
+          Wenn Sie uns per E-Mail oder ueber ein Kontaktformular kontaktieren, verarbeiten wir
+          die von Ihnen uebermittelten Daten ausschliesslich zur Bearbeitung Ihrer Anfrage.
+        </p>
+
+        <h2>4. Server-Logfiles</h2>
+        <p>
+          Der Hosting-Anbieter erhebt in der Regel automatisch Informationen in sogenannten
+          Server-Logfiles, die Ihr Browser automatisch uebermittelt. Dies sind insbesondere:
+          Browsertyp, Betriebssystem, Referrer-URL, Hostname des zugreifenden Rechners,
+          Uhrzeit der Serveranfrage und IP-Adresse.
+        </p>
+
+        <h2>5. Ihre Rechte</h2>
+        <p>
+          Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen das Recht auf Auskunft,
+          Berichtigung, Loeschung, Einschraenkung der Verarbeitung sowie auf Widerspruch gegen
+          die Verarbeitung Ihrer personenbezogenen Daten.
+        </p>
+
+        <h2>6. Hinweis</h2>
+        <p>
+          Diese Datenschutzerklaerung ist ein allgemeines Grundmuster und ersetzt keine
+          individuelle rechtliche Pruefung. Vor dem finalen Livegang sollte der Text rechtlich
+          geprueft und an die tatsaechlich eingesetzten Dienste angepasst werden.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h3>Facility & Care</h3>
+        <p>Tannenstr. 10A<br />85579 Neubiberg</p>
+      </div>
+      <div>
+        <h3>Leistungen</h3>
+        <ul class="footer-list">
+          <li><a href="rasen.html">Rasenpflege</a></li>
+          <li><a href="pflaster.html">Pflasterarbeiten</a></li>
+          <li><a href="garten.html">Gartengestaltung</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Kontakt</h3>
+        <ul class="footer-list">
+          <li><a href="tel:017661709809">0176 / 61709809</a></li>
+          <li><a href="mailto:Tecer.Facility-care@web.de">Tecer.Facility-care@web.de</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Rechtliches</h3>
+        <ul class="footer-list">
+          <li><a href="impressum.html">Impressum</a></li>
+          <li><a href="datenschutz.html">Datenschutz</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Facility & Care. Alle Rechte vorbehalten.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

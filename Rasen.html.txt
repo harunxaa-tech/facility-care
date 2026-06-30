@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rasenpflege Muenchen | Maehen, Vertikutieren, Duengen | Facility & Care</title>
+  <meta name="description" content="Rasenpflege fuer sattes Gruen: Mähservice, Fruehjahrskur, Neuanlage und Rollrasen-Verlegung in Neubiberg und Umgebung." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">Facility & Care</a>
+      <button class="nav-toggle" aria-label="Menue oeffnen">Menue</button>
+      <nav class="site-nav">
+        <a href="index.html">Start</a>
+        <a href="rasen.html" class="active">Rasenpflege</a>
+        <a href="pflaster.html">Pflaster</a>
+        <a href="garten.html">Gartengestaltung</a>
+        <a href="kontakt.html">Kontakt</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero lawn-hero">
+      <div class="container narrow">
+        <p class="eyebrow light">Rasenpflege in Neubiberg und Umgebung</p>
+        <h1>Rasenpflege fuer sattes Gruen</h1>
+        <p class="lead light">
+          Vom lueckigen Rasen zur gruenen Visitenkarte. Ob regelmaessiger Maehservice in der
+          Saison oder die grosse Fruehjahrskur - wir stimmen die Pflege auf Ihren Boden und
+          Ihre Nutzung ab. Auch die Neuanlage oder Rollrasen-Verlegung uebernehmen wir.
+        </p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow">Unsere Leistungen</p>
+          <h2>Rasenpflege, die zum Objekt passt</h2>
+        </div>
+
+        <div class="cards two">
+          <article class="card">
+            <h3>Regelmaessiger Maehservice</h3>
+            <p>
+              Gleichmaessige Schnitthoehen, ein gepflegtes Erscheinungsbild und planbare
+              Einsaetze waehrend der Saison.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Fruehjahrskur</h3>
+            <p>
+              Vertikutieren, Nachsaat, Duengung und Vorbereitung fuer einen kraeftigen Start in
+              die Saison.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Neuanlage von Rasenflaechen</h3>
+            <p>
+              Vorbereitung des Untergrunds, sauberer Aufbau und eine solide Basis fuer gesundes
+              Wachstum.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Rollrasen-Verlegung</h3>
+            <p>
+              Schnelle Ergebnisse mit einer direkt sichtbaren Gruenflaeche - fachgerecht
+              verlegt und sauber angeschlossen.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow">So arbeiten wir</p>
+          <h2>Vom ersten Eindruck zur gepflegten Flaeche</h2>
+        </div>
+
+        <div class="steps">
+          <div class="step-item">
+            <span class="step-number">1</span>
+            <h3>Besichtigung</h3>
+            <p>Wir schauen uns Flaeche, Zustand und Anforderungen vor Ort an.</p>
+          </div>
+          <div class="step-item">
+            <span class="step-number">2</span>
+            <h3>Empfehlung</h3>
+            <p>Sie erhalten eine passende Einschaetzung zum Pflege- oder Anlagebedarf.</p>
+          </div>
+          <div class="step-item">
+            <span class="step-number">3</span>
+            <h3>Ausfuehrung</h3>
+            <p>Wir setzen die Arbeiten sauber, zuverlaessig und abgestimmt um.</p>
+          </div>
+          <div class="step-item">
+            <span class="step-number">4</span>
+            <h3>Ergebnis</h3>
+            <p>Ihre Flaeche wirkt gepflegt, aufgewertet und langfristig besser nutzbar.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container split">
+        <div>
+          <p class="eyebrow">Fuer wen wir arbeiten</p>
+          <h2>Private und gewerbliche Flaechen</h2>
+          <p>
+            Wir unterstuetzen Hausbesitzer, Vermieter, Hausverwaltungen und kleinere
+            Gewerbeobjekte bei einer sauberen und verlaesslichen Pflege der Gruenflaechen.
+          </p>
+          <ul class="check-list dark">
+            <li>Gaerten und Vorgae rten</li>
+            <li>Mehrfamilienhaeuser und Wohnanlagen</li>
+            <li>Praxis- und Bueroaussenflaechen</li>
+            <li>Kleinere gewerbliche Grundstuecke</li>
+          </ul>
+        </div>
+
+        <div class="highlight-box">
+          <h3>Warum gepflegter Rasen wichtig ist</h3>
+          <p>
+            Ein dichter und gesunder Rasen verbessert nicht nur die Optik, sondern reduziert
+            auch kahle Stellen, Unkrautdruck und spaeteren Sanierungsaufwand.
+          </p>
+          <a class="btn btn-primary" href="kontakt.html">Rasenpflege anfragen</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section cta-section">
+      <div class="container cta-box">
+        <div>
+          <p class="eyebrow light">Jetzt Kontakt aufnehmen</p>
+          <h2>Sie moechten Ihren Rasen neu anlegen oder regelmaessig pflegen lassen?</h2>
+          <p>Wir freuen uns auf Ihre Anfrage per Telefon oder E-Mail.</p>
+        </div>
+        <div class="cta-actions">
+          <a class="btn btn-light" href="kontakt.html">Zur Kontaktseite</a>
+          <a class="btn btn-outline-light" href="mailto:Tecer.Facility-care@web.de">E-Mail senden</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h3>Facility & Care</h3>
+        <p>Tannenstr. 10A<br />85579 Neubiberg</p>
+      </div>
+      <div>
+        <h3>Leistungen</h3>
+        <ul class="footer-list">
+          <li><a href="rasen.html">Rasenpflege</a></li>
+          <li><a href="pflaster.html">Pflasterarbeiten</a></li>
+          <li><a href="garten.html">Gartengestaltung</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Kontakt</h3>
+        <ul class="footer-list">
+          <li><a href="tel:017661709809">0176 / 61709809</a></li>
+          <li><a href="mailto:Tecer.Facility-care@web.de">Tecer.Facility-care@web.de</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Rechtliches</h3>
+        <ul class="footer-list">
+          <li><a href="impressum.html">Impressum</a></li>
+          <li><a href="datenschutz.html">Datenschutz</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Facility & Care. Alle Rechte vorbehalten.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

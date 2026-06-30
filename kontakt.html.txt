@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kontakt | Facility & Care</title>
+  <meta name="description" content="Kontakt zu Facility & Care in Neubiberg. Anfrage per Telefon, E-Mail oder Kontaktformular." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">Facility & Care</a>
+      <button class="nav-toggle" aria-label="Menue oeffnen">Menue</button>
+      <nav class="site-nav">
+        <a href="index.html">Start</a>
+        <a href="rasen.html">Rasenpflege</a>
+        <a href="pflaster.html">Pflaster</a>
+        <a href="garten.html">Gartengestaltung</a>
+        <a href="kontakt.html" class="active">Kontakt</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero contact-hero">
+      <div class="container narrow">
+        <p class="eyebrow light">Kontakt</p>
+        <h1>Schnell und direkt anfragen</h1>
+        <p class="lead light">
+          Schreiben Sie uns eine Nachricht oder rufen Sie direkt an. Wir melden uns zeitnah zurueck.
+        </p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container contact-grid">
+        <div>
+          <h2>Kontaktdaten</h2>
+          <div class="contact-card">
+            <p><strong>Facility & Care</strong></p>
+            <p>Tannenstr. 10A<br />85579 Neubiberg</p>
+            <p><strong>Inhaber:</strong> Harun Tecer</p>
+            <p><strong>Telefon:</strong><br /><a href="tel:017661709809">0176 / 61709809</a></p>
+            <p><strong>E-Mail:</strong><br /><a href="mailto:Tecer.Facility-care@web.de">Tecer.Facility-care@web.de</a></p>
+          </div>
+        </div>
+
+        <div>
+          <h2>Nachricht senden</h2>
+          <form class="contact-form" id="contactForm">
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" required />
+
+            <label for="email">E-Mail</label>
+            <input id="email" name="email" type="email" required />
+
+            <label for="phone">Telefon</label>
+            <input id="phone" name="phone" type="text" />
+
+            <label for="message">Nachricht</label>
+            <textarea id="message" name="message" rows="6" required></textarea>
+
+            <button type="submit" class="btn btn-primary">Anfrage absenden</button>
+            <p class="form-note">
+              Hinweis: Dieses Formular ist in dieser Version noch nicht mit einem echten Versanddienst verbunden.
+              Nutzen Sie vorerst bitte direkt E-Mail oder Telefon.
+            </p>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h3>Facility & Care</h3>
+        <p>Tannenstr. 10A<br />85579 Neubiberg</p>
+      </div>
+      <div>
+        <h3>Leistungen</h3>
+        <ul class="footer-list">
+          <li><a href="rasen.html">Rasenpflege</a></li>
+          <li><a href="pflaster.html">Pflasterarbeiten</a></li>
+          <li><a href="garten.html">Gartengestaltung</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Kontakt</h3>
+        <ul class="footer-list">
+          <li><a href="tel:017661709809">0176 / 61709809</a></li>
+          <li><a href="mailto:Tecer.Facility-care@web.de">Tecer.Facility-care@web.de</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Rechtliches</h3>
+        <ul class="footer-list">
+          <li><a href="impressum.html">Impressum</a></li>
+          <li><a href="datenschutz.html">Datenschutz</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Facility & Care. Alle Rechte vorbehalten.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

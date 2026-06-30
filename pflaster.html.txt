@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pflasterarbeiten | Facility & Care</title>
+  <meta name="description" content="Pflasterarbeiten fuer Wege, Terrassen, Einfahrten und kleinere Aussenanlagen in Neubiberg und Umgebung." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">Facility & Care</a>
+      <button class="nav-toggle" aria-label="Menue oeffnen">Menue</button>
+      <nav class="site-nav">
+        <a href="index.html">Start</a>
+        <a href="rasen.html">Rasenpflege</a>
+        <a href="pflaster.html" class="active">Pflaster</a>
+        <a href="garten.html">Gartengestaltung</a>
+        <a href="kontakt.html">Kontakt</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero stone-hero">
+      <div class="container narrow">
+        <p class="eyebrow light">Saubere Wege und belastbare Flaechen</p>
+        <h1>Pflasterarbeiten fuer ein gepflegtes Gesamtbild</h1>
+        <p class="lead light">
+          Ob Weg, Terrasse, Zugang oder kleinere Ausbesserung - wir sorgen fuer funktionale,
+          ordentliche und optisch stimmige Aussenflaechen.
+        </p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="cards three">
+          <article class="card">
+            <h3>Wege und Zugangsbereiche</h3>
+            <p>Saubere Loesungen fuer Hauseingaenge, Gartenwege und Nebenflaechen.</p>
+          </article>
+          <article class="card">
+            <h3>Terrassen und Sitzflaechen</h3>
+            <p>Praktische und ansprechende Flaechen fuer private Aussenbereiche.</p>
+          </article>
+          <article class="card">
+            <h3>Ausbesserungen</h3>
+            <p>Reparaturen und kleinere Korrekturen an bestehenden Pflasterflaechen.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section cta-section">
+      <div class="container cta-box">
+        <div>
+          <p class="eyebrow light">Projekt anfragen</p>
+          <h2>Sie planen eine neue Pflasterflaeche oder eine Ausbesserung?</h2>
+        </div>
+        <div class="cta-actions">
+          <a class="btn btn-light" href="kontakt.html">Kontakt aufnehmen</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h3>Facility & Care</h3>
+        <p>Tannenstr. 10A<br />85579 Neubiberg</p>
+      </div>
+      <div>
+        <h3>Leistungen</h3>
+        <ul class="footer-list">
+          <li><a href="rasen.html">Rasenpflege</a></li>
+          <li><a href="pflaster.html">Pflasterarbeiten</a></li>
+          <li><a href="garten.html">Gartengestaltung</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Kontakt</h3>
+        <ul class="footer-list">
+          <li><a href="tel:017661709809">0176 / 61709809</a></li>
+          <li><a href="mailto:Tecer.Facility-care@web.de">Tecer.Facility-care@web.de</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Rechtliches</h3>
+        <ul class="footer-list">
+          <li><a href="impressum.html">Impressum</a></li>
+          <li><a href="datenschutz.html">Datenschutz</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Facility & Care. Alle Rechte vorbehalten.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

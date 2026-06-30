@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Facility & Care | Gartenpflege, Rasenpflege und Aussenanlagen</title>
+  <meta name="description" content="Facility & Care aus Neubiberg: Rasenpflege, Rollrasen, Pflasterarbeiten und Gartengestaltung fuer private und gewerbliche Aussenanlagen." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">Facility & Care</a>
+      <button class="nav-toggle" aria-label="Menue oeffnen">Menue</button>
+      <nav class="site-nav">
+        <a href="index.html" class="active">Start</a>
+        <a href="rasen.html">Rasenpflege</a>
+        <a href="pflaster.html">Pflaster</a>
+        <a href="garten.html">Gartengestaltung</a>
+        <a href="kontakt.html">Kontakt</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-text">
+          <p class="eyebrow">Facility & Care aus Neubiberg</p>
+          <h1>Gepflegte Aussenanlagen fuer einen starken ersten Eindruck</h1>
+          <p class="lead">
+            Wir unterstuetzen private, gewerbliche und betreute Objekte mit sauberer
+            Rasenpflege, professionellen Pflasterarbeiten und durchdachter Gartengestaltung.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="kontakt.html">Jetzt anfragen</a>
+            <a class="btn btn-secondary" href="rasen.html">Leistungen ansehen</a>
+          </div>
+        </div>
+        <div class="hero-card">
+          <h2>Unsere Leistungen</h2>
+          <ul class="check-list">
+            <li>Rasenpflege und Mähservice</li>
+            <li>Rollrasen und Neuanlage</li>
+            <li>Pflasterarbeiten und Wege</li>
+            <li>Gartengestaltung und Pflege</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow">Wofuer wir stehen</p>
+          <h2>Zuverlaessig, sauber und persoenlich</h2>
+          <p>
+            Gute Aussenanlagen entstehen nicht nur durch Maschinen, sondern durch saubere
+            Ausfuehrung, klare Absprachen und einen Blick fuer das Gesamtbild.
+          </p>
+        </div>
+
+        <div class="cards three">
+          <article class="card">
+            <h3>Saubere Ausfuehrung</h3>
+            <p>
+              Wir arbeiten ordentlich, termintreu und mit einem hohen Anspruch an ein
+              gepflegtes Ergebnis.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Passende Loesungen</h3>
+            <p>
+              Ob kleine Flaeche oder groessere Anlage - wir stimmen Leistung und Aufwand auf
+              Ihr Objekt ab.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Direkter Kontakt</h3>
+            <p>
+              Sie erreichen uns schnell und unkompliziert - ohne Umwege und ohne unnoetige
+              Wartezeiten.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow">Leistungsbereiche</p>
+          <h2>Das bieten wir an</h2>
+        </div>
+
+        <div class="cards three">
+          <article class="service-card">
+            <h3>Rasenpflege</h3>
+            <p>
+              Vom regelmaessigen Maehservice bis zur Fruehjahrskur, Nachsaat oder
+              Rollrasen-Verlegung.
+            </p>
+            <a class="text-link" href="rasen.html">Mehr zur Rasenpflege</a>
+          </article>
+
+          <article class="service-card">
+            <h3>Pflasterarbeiten</h3>
+            <p>
+              Wege, Einfahrten, Terrassen und Ausbesserungen - funktional, sauber und langlebig.
+            </p>
+            <a class="text-link" href="pflaster.html">Mehr zu Pflasterarbeiten</a>
+          </article>
+
+          <article class="service-card">
+            <h3>Gartengestaltung</h3>
+            <p>
+              Struktur, Pflege und Gestaltung fuer Aussenbereiche mit einem stimmigen Gesamtbild.
+            </p>
+            <a class="text-link" href="garten.html">Mehr zur Gartengestaltung</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section cta-section">
+      <div class="container cta-box">
+        <div>
+          <p class="eyebrow light">Unverbindlich anfragen</p>
+          <h2>Sie moechten Ihre Aussenflaechen professionell pflegen oder neu anlegen lassen?</h2>
+          <p>
+            Schreiben Sie uns oder rufen Sie direkt an. Wir melden uns zeitnah zurueck.
+          </p>
+        </div>
+        <div class="cta-actions">
+          <a class="btn btn-light" href="kontakt.html">Kontakt aufnehmen</a>
+          <a class="btn btn-outline-light" href="tel:017661709809">0176 / 61709809</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h3>Facility & Care</h3>
+        <p>Tannenstr. 10A<br />85579 Neubiberg</p>
+      </div>
+      <div>
+        <h3>Leistungen</h3>
+        <ul class="footer-list">
+          <li><a href="rasen.html">Rasenpflege</a></li>
+          <li><a href="pflaster.html">Pflasterarbeiten</a></li>
+          <li><a href="garten.html">Gartengestaltung</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Kontakt</h3>
+        <ul class="footer-list">
+          <li><a href="tel:017661709809">0176 / 61709809</a></li>
+          <li><a href="mailto:Tecer.Facility-care@web.de">Tecer.Facility-care@web.de</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Rechtliches</h3>
+        <ul class="footer-list">
+          <li><a href="impressum.html">Impressum</a></li>
+          <li><a href="datenschutz.html">Datenschutz</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Facility & Care. Alle Rechte vorbehalten.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

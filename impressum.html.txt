@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Impressum | Facility & Care</title>
+  <meta name="description" content="Impressum von Facility & Care." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">Facility & Care</a>
+      <button class="nav-toggle" aria-label="Menue oeffnen">Menue</button>
+      <nav class="site-nav">
+        <a href="index.html">Start</a>
+        <a href="rasen.html">Rasenpflege</a>
+        <a href="pflaster.html">Pflaster</a>
+        <a href="garten.html">Gartengestaltung</a>
+        <a href="kontakt.html">Kontakt</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section legal-section">
+      <div class="container legal-content">
+        <h1>Impressum</h1>
+
+        <h2>Angaben gemaess Paragraph 5 TMG</h2>
+        <p>
+          Facility & Care<br />
+          Inhaber: Harun Tecer<br />
+          Tannenstr. 10A<br />
+          85579 Neubiberg
+        </p>
+
+        <h2>Kontakt</h2>
+        <p>
+          Telefon: 0176 / 61709809<br />
+          E-Mail: Tecer.Facility-care@web.de
+        </p>
+
+        <h2>Steuerliche Angaben</h2>
+        <p>
+          IdNr.: 57 215 830 643
+        </p>
+
+        <h2>Verantwortlich fuer den Inhalt nach Paragraph 18 Abs. 2 MStV</h2>
+        <p>
+          Harun Tecer<br />
+          Tannenstr. 10A<br />
+          85579 Neubiberg
+        </p>
+
+        <h2>EU-Streitschlichtung</h2>
+        <p>
+          Die Europaeische Kommission stellt eine Plattform zur Online-Streitbeilegung bereit:
+          [ec.europa.eu](https://ec.europa.eu/consumers/odr/)
+        </p>
+        <p>
+          Wir sind nicht verpflichtet und nicht bereit, an Streitbeilegungsverfahren vor einer
+          Verbraucherschlichtungsstelle teilzunehmen.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h3>Facility & Care</h3>
+        <p>Tannenstr. 10A<br />85579 Neubiberg</p>
+      </div>
+      <div>
+        <h3>Leistungen</h3>
+        <ul class="footer-list">
+          <li><a href="rasen.html">Rasenpflege</a></li>
+          <li><a href="pflaster.html">Pflasterarbeiten</a></li>
+          <li><a href="garten.html">Gartengestaltung</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Kontakt</h3>
+        <ul class="footer-list">
+          <li><a href="tel:017661709809">0176 / 61709809</a></li>
+          <li><a href="mailto:Tecer.Facility-care@web.de">Tecer.Facility-care@web.de</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Rechtliches</h3>
+        <ul class="footer-list">
+          <li><a href="impressum.html">Impressum</a></li>
+          <li><a href="datenschutz.html">Datenschutz</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Facility & Care. Alle Rechte vorbehalten.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

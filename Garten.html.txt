@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gartengestaltung | Facility & Care</title>
+  <meta name="description" content="Gartengestaltung und Pflege fuer strukturierte, gepflegte und nutzbare Aussenbereiche." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">Facility & Care</a>
+      <button class="nav-toggle" aria-label="Menue oeffnen">Menue</button>
+      <nav class="site-nav">
+        <a href="index.html">Start</a>
+        <a href="rasen.html">Rasenpflege</a>
+        <a href="pflaster.html">Pflaster</a>
+        <a href="garten.html" class="active">Gartengestaltung</a>
+        <a href="kontakt.html">Kontakt</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero garden-hero">
+      <div class="container narrow">
+        <p class="eyebrow light">Gestaltung und Pflege</p>
+        <h1>Gartengestaltung mit Blick fuer das Ganze</h1>
+        <p class="lead light">
+          Wir helfen dabei, Aussenbereiche funktional, gepflegt und optisch stimmig zu
+          strukturieren - von der Aufwertung bestehender Flaechen bis zu neuen Ideen fuer Ihren Garten.
+        </p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="cards three">
+          <article class="card">
+            <h3>Pflege und Ordnung</h3>
+            <p>Rueckschnitt, Aufraeumarbeiten und Pflege fuer ein sauberes Gesamtbild.</p>
+          </article>
+          <article class="card">
+            <h3>Struktur und Aufwertung</h3>
+            <p>Klare Flaechen, saubere Uebergaenge und eine bessere Nutzbarkeit im Alltag.</p>
+          </article>
+          <article class="card">
+            <h3>Individuelle Loesungen</h3>
+            <p>Abgestimmt auf Grundstueck, Pflegeaufwand und gewuenschte Nutzung.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section cta-section">
+      <div class="container cta-box">
+        <div>
+          <p class="eyebrow light">Aussenbereich aufwerten</p>
+          <h2>Sie moechten Ihren Garten gepflegter und besser nutzbar machen?</h2>
+        </div>
+        <div class="cta-actions">
+          <a class="btn btn-light" href="kontakt.html">Anfrage senden</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h3>Facility & Care</h3>
+        <p>Tannenstr. 10A<br />85579 Neubiberg</p>
+      </div>
+      <div>
+        <h3>Leistungen</h3>
+        <ul class="footer-list">
+          <li><a href="rasen.html">Rasenpflege</a></li>
+          <li><a href="pflaster.html">Pflasterarbeiten</a></li>
+          <li><a href="garten.html">Gartengestaltung</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Kontakt</h3>
+        <ul class="footer-list">
+          <li><a href="tel:017661709809">0176 / 61709809</a></li>
+          <li><a href="mailto:Tecer.Facility-care@web.de">Tecer.Facility-care@web.de</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Rechtliches</h3>
+        <ul class="footer-list">
+          <li><a href="impressum.html">Impressum</a></li>
+          <li><a href="datenschutz.html">Datenschutz</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Facility & Care. Alle Rechte vorbehalten.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
